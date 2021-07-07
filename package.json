@@ -1,8 +1,8 @@
 {
-  "author": "James R. Carr <james.r.carr@gmail.com> (http://blog.james-carr.org)",
-  "name": "mongoosastic",
+  "author": "philiplane@gmail.com",
+  "name": "mongoosastic-imp",
   "description": "A mongoose plugin that indexes models into elastic search",
-  "version": "4.6.0",
+  "version": "4.6.1",
   "tags": [
     "mongodb",
     "elasticsearch",
